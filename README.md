@@ -3,7 +3,11 @@
 This repository contains a pytorch implementation for the paper: [TensoRF: Tensorial Radiance Fields](https://arxiv.org/abs/2103.15595). Our work present a novel approach to model and reconstruct radiance fields, which achieves super
 **fast** training process, **compact** memory footprint and **state-of-the-art** rendering quality.<br><br>
 
-xxx.mp4
+
+
+https://user-images.githubusercontent.com/16453770/158920837-3fafaa17-6ed9-4414-a0b1-a80dc9e10301.mp4
+
+
 
 ## Installation
 
@@ -57,5 +61,12 @@ checkpoint.
 ## Citation
 If you find our code or paper helps, please consider citing:
 ```
-xxx
+@misc{TensoRF,
+      title={TensoRF: Tensorial Radiance Fields},
+      author={Anpei Chen and Zexiang Xu and Andreas Geiger and and Jingyi Yu and Hao Su},
+      year={2022},
+      eprint={2203.09517},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
