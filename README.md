@@ -4,6 +4,7 @@ This repository contains a pytorch implementation for the paper: [TensoRF: Tenso
 **fast** training process, **compact** memory footprint and **state-of-the-art** rendering quality.<br><br>
 
 
+
 https://user-images.githubusercontent.com/16453770/158920837-3fafaa17-6ed9-4414-a0b1-a80dc9e10301.mp4
 ## Installation
 
